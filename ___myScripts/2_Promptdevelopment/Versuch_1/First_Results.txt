@@ -1,0 +1,56 @@
+P:Wie hoch ist die Base Failure Rate (BFR) von diode low frequency?
+T:60.64552974700928
+A:Die Base Failure Rate (BFR) f�r diode Low Frequency betr�gt:
+
+* General Purpose Analog: 0,0038 Failures/10^6 Stunden
+* Switching: 0,0010 Failures/10^6 Stunden
+* Fast Recovery: 0,069 Failures/10^6 Stunden
+* Power Rectifier/Schottky: 0,0030 Failures/10^6 Stunden
+* Power Diode: 0,0050 Failures/10^6 Stunden
+* Junction Transient Suppressor/Vanistor: 0,0013 Failures/10^6 Stunden
+* Current Regulator: 0,0034 Failures/10^6 Stunden
+* Voltage Regulator und Voltage Reference (Avalanche und Zener): 0,0020 Failures/10^6 Stunden
+
+Hinweis: Die BFR-Werte beziehen sich auf die Wahrscheinlichkeit einer Fehlfunktion innerhalb von 10^6 Stunden unter den gegebenen Bedingungen.
+
+P:How high is the base failure rate (BFR) of diode low frequency?
+T:48.64751577377319
+A:A nice table of diode failure rates from MIL-HDBK-217F!
+
+The Base Failure Rate (BFR) is listed for each diode type and application in the table. To answer your question, I'll extract the BFR values for "Low Frequency" diodes:
+
+* General Purpose Analog: 0.0038
+* Switching: 0.0010
+* Power Rectifier/Fast Recovery: 0.069 (this one is much higher than the others)
+* Power Diode: 0.0030
+* Power Rectifier/Schottky: 0.0030
+* Power Rectifier with High Voltage Stacks: 0.0050
+
+Note that these BFR values are in failures per million hours (FIT). To convert them to a more intuitive format, you can multiply by 10^6:
+
+* General Purpose Analog: 3.8 FIT
+* Switching: 1.0 FIT
+* Power Rectifier/Fast Recovery: 69 FIT
+* Power Diode: 3.0 FIT
+* Power Rectifier/Schottky: 3.0 FIT
+* Power Rectifier with High Voltage Stacks: 5.0 FIT
+
+Keep in mind that these values are estimates and may vary depending on the specific application, operating conditions, and quality of the diodes used.
+
+P:Wie hoch ist die Base Failure Rate (BFR) von diode low frequency?
+
+Nur eine Zahl, finde Typenvertreter
+T:12.479771137237549
+A:Die Base Failure Rate (BFR) von diode low frequency betr�gt f�r ein Beispiel:
+
+* General Purpose Analog: 0,0038 Failures/10^6 Stunden
+* Power Rectifier/Schottky: 0,0030 Failures/10^6 Stunden
+
+P:How high is the base failure rate (BFR) of diode low frequency?
+
+Just one number, find type representative
+T:9.323232889175415
+A:Based on the table, a representative type for diode low frequency is "General Purpose Analog" with a Base Failure Rate (BFR) of:
+
+0.0038 Failures/10^6 Hours
+

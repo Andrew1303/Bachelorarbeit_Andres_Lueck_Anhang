@@ -1,0 +1,33 @@
+% In der Titelei werden römische Ziffern für die Seitenzahlen verwendet;
+% gleichzeitig wird durch diesen Befehl die aktuelle Seitenzahl auf eins
+% gesetzt
+\pagenumbering{Roman}
+
+% Inhaltsverzeichnis
+
+\tableofcontents
+\newpage
+\begingroup
+\let\clearpage\relax
+\listoffigures
+\listoftables
+% \lstlistoflistings
+\printglossary[type=\acronymtype,title=Abkürzungsverzeichnis]
+\endgroup
+% Abbildungsverzeichnis, kann evtl. weggelassen werden
+% \listoffigures
+% \vspace{2cm}
+% Tabellenverzeichnis, kann evtl. weggelassen werden
+% \listoftables
+
+% Quelltextverzeichnis
+% \lstlistoflistings
+
+% Abkürzungsverzeichnis
+
+% neue Seite, vorsichtshalber
+\clearpage
+% ab jetzt arabische Ziffern und wieder auf eins setzen
+\pagenumbering{arabic}
+
+% ABKÜRZUNGSVERZEICHNIS

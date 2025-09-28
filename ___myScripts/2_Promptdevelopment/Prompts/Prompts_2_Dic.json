@@ -1,0 +1,8 @@
+{
+    "en": [
+        "How high is the base failure rate (BFR) of [itemname]?",
+        "How high is the base failure rate (BFR) of [itemname]?\n\nOnly return numbers without unit",
+        "How high is the base failure rate (BFR) of [itemname]?\n\nRefer on the given context",
+        "How high is the base failure rate (BFR) of [itemname]?\n\nOnly return numbers without unit and refer on the given context"
+    ]
+}

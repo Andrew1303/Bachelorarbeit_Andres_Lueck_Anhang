@@ -1,0 +1,14 @@
+{
+    "en": [
+        "How high is the base failure rate (BFR) of [itemname]?",
+        "How high is the base failure rate (BFR) of [itemname]?\n\nJust one number, find type representative",
+        "How high is the base failure rate (BFR) of [itemname]?\n\nJust one number, find type representative, choose the most general number",
+        "How high is the base failure rate (BFR) of [itemname]?\n\nReturn one number without measurement"
+    ],
+    "de": [
+        "Wie hoch ist die Base Failure Rate (BFR) von [itemname]?",
+        "Wie hoch ist die Base Failure Rate (BFR) von [itemname]?\n\nNur eine Zahl, finde Typenvertreter",
+        "Wie hoch ist die Base Failure Rate (BFR) von [itemname]?\n\nNur eine Zahl, finde Typenvertreter, wähle die allgemeinste geltende Zahl",
+        "Wie hoch ist die Base Failure Rate (BFR) von [itemname]?\n\nGib eine Zahl ohne größe zurück"
+    ]
+}

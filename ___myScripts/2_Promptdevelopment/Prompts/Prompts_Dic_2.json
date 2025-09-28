@@ -1,0 +1,9 @@
+{
+    "en": [
+        "How high is the base failure rate (BFR) of [itemname]?\n\nReturn one number without measurement",
+        "How high is the base failure rate (BFR) of [itemname]? \n Return one number without measurement. Keep it short. No other information needed.",
+        "Extract the most general base failure rate of [itemname]. Return one number without measurement. Keep it short. No other information needed.\n\n",
+        "How high is the base failure rate (BFR) of [itemname]? Analyze the following context and return the most general number without measurement. Keep it short. No other information needed.",
+        "Return only the number of the base failure rate"
+    ]
+}

@@ -1,0 +1,1151 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.16)  25 AUG 2025 18:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Andre/Documents/Studium/Bachelorarbeit/___Database/MIL-HDBK-217F_CLEANED/1_MIL-HDBK-217F_BFRS.tex
+(c:/Users/Andre/Documents/Studium/Bachelorarbeit/___Database/MIL-HDBK-217F_CLEANED/1_MIL-HDBK-217F_BFRS.tex
+LaTeX2e <2025-06-01>
+L3 programming layer <2025-05-26>
+(defs.tex (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt.cls
+Document Class: scrreprt 2025/06/04 v3.45 KOMA-Script document class (report)
+(C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2025/06/04 v3.45 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2025/06/04 v3.45 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2025/06/04 v3.45 KOMA-Script package (file load hooks)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2025/06/04 v3.45 KOMA-Script package (using LaTeX hooks)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2025/06/04 v3.45 KOMA-Script package (logo)
+))) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
+)) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
+Package: tocbasic 2025/06/04 v3.45 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip49
+\scr@dte@tocline@numbox=\box53
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Class scrreprt Info: File `scrsize10pt.clo' used to setup font sizes on input line 2697.
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize10pt.clo
+File: scrsize10pt.clo 2025/06/04 v3.45 KOMA-Script font size class option (10pt)
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
+Package: typearea 2025/06/04 v3.45 KOMA-Script package (type area)
+\ta@bcor=\skip50
+\ta@div=\count275
+\ta@hblk=\skip51
+\ta@vblk=\skip52
+\ta@temp=\skip53
+\footheight=\skip54
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 373.44246pt
+(typearea)              DIV departure   = -4%
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 538.0pt
+(typearea)              \topmargin      = 0.36087pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 1804.
+)
+\c@part=\count276
+\c@chapter=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\scr@dte@chapter@maxnumwidth=\skip55
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\chapter on input line 6036.
+\scr@dte@section@maxnumwidth=\skip56
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\section on input line 6047.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\section on input line 6047.
+\scr@dte@part@maxnumwidth=\skip57
+Class scrreprt Info: using compatibility default `afterindent=true'
+(scrreprt)           for `\part on input line 6056.
+\scr@dte@subsection@maxnumwidth=\skip58
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsection on input line 6066.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsection on input line 6066.
+\scr@dte@subsubsection@maxnumwidth=\skip59
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsubsection on input line 6076.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsubsection on input line 6076.
+\scr@dte@paragraph@maxnumwidth=\skip60
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\paragraph on input line 6087.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\paragraph on input line 6087.
+\scr@dte@subparagraph@maxnumwidth=\skip61
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subparagraph on input line 6097.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subparagraph on input line 6097.
+\abovecaptionskip=\skip62
+\belowcaptionskip=\skip63
+\c@pti@nb@sid@b@x=\box54
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 7300.
+\scr@dte@figure@maxnumwidth=\skip64
+\c@figure=\count283
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 7317.
+\scr@dte@table@maxnumwidth=\skip65
+\c@table=\count284
+Class scrreprt Info: Redefining `\numberline' on input line 7488.
+\bibindent=\dimen148
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count285
+\lst@gtempboxa=\box55
+\lst@token=\toks18
+\lst@length=\count286
+\lst@currlwidth=\dimen149
+\lst@column=\count287
+\lst@pos=\count288
+\lst@lostspace=\dimen150
+\lst@width=\dimen151
+\lst@newlines=\count289
+\lst@lineno=\count290
+\lst@maxwidth=\dimen152
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count291
+\lst@skipnumbers=\count292
+\lst@framebox=\box56
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+Package: glossaries 2025/05/14 v4.7 (NLCT)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count293
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2025/04/03 v2.09 (NLCT)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+)
+\@glsmfirst=\toks21
+\@glsmrest=\toks22
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen153
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
+Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/05/18 v2.17x AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen154
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count295
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count296
+\leftroot@=\count297
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count298
+\DOTSCASE@=\count299
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen155
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count300
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count301
+\dotsspace@=\muskip17
+\c@parentequation=\count302
+\dspbrk@lvl=\count303
+\tag@help=\toks24
+\row@=\count304
+\column@=\count305
+\maxfields@=\count306
+\andhelp@=\toks25
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks26
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
+File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
+)
+\@dtl@toks=\toks28
+\@dtl@tmpcount=\count307
+\dtl@tmplength=\skip69
+\l__datatool_measure_box=\box59
+\dtl@sortresult=\count308
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
+File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
+)
+\@dtl@datatype=\count309
+\l__datatool_tmpa_int=\count310
+\l__datatool_tmpb_int=\count311
+\l__datatool_tmpc_int=\count312
+\l__datatool_tmpd_int=\count313
+\l__datatool_count_int=\count314
+\l__datatool_tmp_datatype_int=\count315
+\l__datatool_tmpa_dim=\dimen162
+\l__datatool_tmpb_dim=\dimen163
+\c_datatool_unknown_int=\count316
+\l__datatool_year_int=\count317
+\l__datatool_month_int=\count318
+\l__datatool_day_int=\count319
+\l__datatool_hour_int=\count320
+\l__datatool_minute_int=\count321
+\l__datatool_second_int=\count322
+\l__datatool_tzhour_int=\count323
+\l__datatool_tzminute_int=\count324
+\l__datatool_julian_int=\count325
+\l__datatool_local_julian_int=\count326
+\l__datatool_prefix_int=\count327
+\l__datatool_suffix_int=\count328
+\@dtl@foreach@level=\count329
+\dtl@codeA=\count330
+\dtl@codeB=\count331
+)
+\gls@level=\count332
+\@gls@tmpb=\toks29
+\gls@tmplen=\skip70
+\l__glossaries_tmpa_dim=\dimen164
+\l__glossaries_tmpb_dim=\dimen165
+\glskeylisttok=\toks30
+\glslabeltok=\toks31
+\glsshorttok=\toks32
+\glslongtok=\toks33
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+Package: glossary-hypernav 2025/05/14 v4.7 (NLCT)
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+Package: glossary-list 2025/05/14 v4.7 (NLCT)
+\glslistdottedwidth=\skip71
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+Package: glossary-long 2025/05/14 v4.7 (NLCT)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip72
+\LTright=\skip73
+\LTpre=\skip74
+\LTpost=\skip75
+\LTchunksize=\count333
+\LTcapwidth=\dimen166
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@gbox=\box64
+\LT@cols=\count334
+\LT@rows=\count335
+\c@LT@tables=\count336
+\c@LT@chunks=\count337
+\LT@p@ftn=\toks34
+)
+Class scrreprt Info: longtable captions redefined on input line 47.
+\glsdescwidth=\skip76
+\glspagelistwidth=\skip77
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+Package: glossary-super 2025/05/14 v4.7 (NLCT)
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2024/07/20 v4.2c the supertabular environment
+\c@tracingst=\count338
+\ST@wd=\dimen167
+\ST@rightskip=\skip78
+\ST@leftskip=\skip79
+\ST@parfillskip=\skip80
+\ST@pageleft=\dimen168
+\ST@headht=\dimen169
+\ST@tailht=\dimen170
+\ST@pagesofar=\dimen171
+\ST@pboxht=\dimen172
+\ST@rowht=\dimen173
+\ST@prevht=\dimen174
+\ST@toadd=\dimen175
+\ST@dimen=\dimen176
+\ST@pbox=\box65
+)) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+Package: glossary-tree 2025/05/14 v4.7 (NLCT)
+\l__glossaries_tree_max_known_level_int=\count339
+\l__glossaries_tree_offset_dim=\dimen177
+\l__glossaries_tree_namewidth_dim=\dimen178
+\l__glossaries_tree_symbolwidth_dim=\dimen179
+\l__glossaries_tree_prenamesym_width_dim=\dimen180
+\l__glossaries_tree_presubnamesym_width_dim=\dimen181
+\l__glossaries_tree_namewidth_padding_dim=\dimen182
+\l__glossaries_tree_symbolwidth_padding_dim=\dimen183
+\l__glossaries_tree_namesymbolwidth_dim=\dimen184
+\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen185
+\l__glossaries_tree_level_int=\count340
+\glstreeindent=\skip81
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `1_MIL-HDBK-217F_BFRS.glo'.
+
+Package glossaries Info: Writing glossary file 1_MIL-HDBK-217F_BFRS.glo on input line 12.
+\glo@acronym@file=\write5
+\openout5 = `1_MIL-HDBK-217F_BFRS.acn'.
+
+Package glossaries Info: Writing glossary file 1_MIL-HDBK-217F_BFRS.acn on input line 12.
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen186
+\lightrulewidth=\dimen187
+\cmidrulewidth=\dimen188
+\belowrulesep=\dimen189
+\belowbottomsep=\dimen190
+\aboverulesep=\dimen191
+\abovetopsep=\dimen192
+\cmidrulesep=\dimen193
+\cmidrulekern=\dimen194
+\defaultaddspace=\dimen195
+\@cmidla=\count341
+\@cmidlb=\count342
+\@aboverulesep=\dimen196
+\@belowrulesep=\dimen197
+\@thisruleclass=\count343
+\@lastruleclass=\count344
+\@thisrulewidth=\dimen198
+) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/05/19 v2.6i Tabular extension package (FMi)
+\col@sep=\dimen199
+\ar@mcellbox=\box66
+\extrarowheight=\dimen256
+\NC@list=\toks35
+\extratabsurround=\skip82
+\backup@length=\skip83
+\ar@cellbox=\box67
+)) (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count345
+\Gm@cntv=\count346
+\c@Gm@tempcnt=\count347
+\Gm@bindingoffset=\dimen257
+\Gm@wd@mp=\dimen258
+\Gm@odd@mp=\dimen259
+\Gm@even@mp=\dimen260
+\Gm@layoutwidth=\dimen261
+\Gm@layoutheight=\dimen262
+\Gm@layouthoffset=\dimen263
+\Gm@layoutvoffset=\dimen264
+\Gm@dimlist=\toks36
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (0_Abk√ºrzungen.tex)
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 5.
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 5.
+ (C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count348
+) (1_MIL-HDBK-217F_BFRS.aux (4_Basisfehlerraten.aux))
+\openout1 = `1_MIL-HDBK-217F_BFRS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+Package scrbase Info: activating english \abstractname on input line 5.
+Package scrbase Info: activating english \partname on input line 5.
+Package scrbase Info: activating english \chaptername on input line 5.
+Package scrbase Info: activating english \appendixname on input line 5.
+Package scrbase Info: activating english \figurename on input line 5.
+Package scrbase Info: activating english \tablename on input line 5.
+Package scrbase Info: activating english \contentsname on input line 5.
+Package scrbase Info: activating english \listfigurename on input line 5.
+Package scrbase Info: activating english \listtablename on input line 5.
+Package scrbase Info: activating english \bibname on input line 5.
+Package scrbase Info: activating english \indexname on input line 5.
+\c@lstlisting=\count349
+Package tocbasic Info: omitting babel extension for `lol'
+(tocbasic)             because of missing \bbl@set@language on input line 5.
+\scr@dte@lstlisting@maxnumwidth=\skip84
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(112.03273pt, 373.44246pt, 112.03275pt)
+* v-part:(T,H,B)=(105.63086pt, 538.0pt, 201.41608pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=373.44246pt
+* \textheight=538.0pt
+* \oddsidemargin=39.76274pt
+* \evensidemargin=39.76274pt
+* \topmargin=0.36087pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(1_title.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79141pt, 85.35826pt)
+* v-part:(T,H,B)=(101.40665pt, 591.53027pt, 152.11002pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=426.79141pt
+* \textheight=591.53027pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 37.99988pt on input line 14.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 37.99988pt on input line 14.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 26.59991pt on input line 16.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 26.59991pt on input line 16.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 15.19995pt on input line 20.
+) (2_Einleitung.tex
+
+[1
+
+\openout3 = `1_MIL-HDBK-217F_BFRS.ist'.
+
+
+{C:/Users/Andre/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+chapter 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 1.
+) (3_Inhaltsverzeichnis.tex
+
+[1
+
+] (1_MIL-HDBK-217F_BFRS.toc
+
+[2
+
+]
+
+[3])
+\tf@toc=\write6
+\openout6 = `1_MIL-HDBK-217F_BFRS.toc'.
+
+
+
+[4] (1_MIL-HDBK-217F_BFRS.lof)
+\tf@lof=\write7
+\openout7 = `1_MIL-HDBK-217F_BFRS.lof'.
+
+ (1_MIL-HDBK-217F_BFRS.lot
+
+[5])
+\tf@lot=\write8
+\openout8 = `1_MIL-HDBK-217F_BFRS.lot'.
+
+ (1_MIL-HDBK-217F_BFRS.acr)
+
+[6])
+\openout2 = `4_Basisfehlerraten.aux'.
+
+ (4_Basisfehlerraten.tex
+chapter 2.
+
+
+[1
+
+
+
+] (4_1_Objekte/4_1_Diodes_Low_Frequency.tex
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 9.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\T1/phv/m/n/10 Voltage Reg-u-la-tor and Volt-age Ref-er-ence
+ []
+
+)
+
+[2] (4_1_Objekte/4_2_Diodes_High_Frequency.tex)
+
+[3] (4_1_Objekte/4_3_transistors_low_frequency_bipolar.tex)
+
+[4] (4_1_Objekte/4_4_transistors_low_frequency_si_fet.tex)
+
+[5] (4_1_Objekte/4_5_transistors_unijunction.tex)
+
+[6] (4_1_Objekte/4_6_transistors_low noise_high_frequency_bipolar.tex)
+
+[7] (4_1_Objekte/4_7_transistors_high_power_high_frequency_bipolar.tex
+Overfull \hbox (51.44145pt too wide) in paragraph at lines 18--36
+ [][] 
+ []
+
+)
+
+[8] (4_1_Objekte/4_8_transistors_high_frequency_gaas_fet.tex
+Overfull \hbox (11.3957pt too wide) in paragraph at lines 17--39
+ [][] 
+ []
+
+)
+
+[9] (4_1_Objekte/4_9_transistors_high_frequency_si_fet.tex)
+
+[10] (4_1_Objekte/4_10_thyristors_and_scrs.tex)
+
+[11] (4_1_Objekte/4_11_optoelectronics_detectors_isolators_emitters.tex)
+
+[12] (4_1_Objekte/4_12_optoelectronics_alphanumeric_displays.tex)
+
+[13] (4_1_Objekte/4_13_optoelectronics_laser_diode.tex)
+
+[14] (4_1_Objekte/4_14_discrete_semiconductors_example.tex)
+
+[15] (4_1_Objekte/4_15_tubes_all_types_except_twt_and_magnetron.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.6271pt, 418.25372pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 715.18755pt, 28.45274pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=418.25372pt
+* \textheight=715.18755pt
+* \oddsidemargin=17.35712pt
+* \evensidemargin=17.35712pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (0.58585pt too wide) in paragraph at lines 3--7
+\T1/phv/m/n/12 Includes Re-ceivers, CRT, Thyra-tron, Crossed Field Am-pli-fier, Pulsed Grid-ded, Trans-
+ []
+
+
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 70--121
+[][] 
+ []
+
+
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 127--164
+[][] 
+ []
+
+
+
+[16
+
+]) (4_1_Objekte/4_16_tubes_pulsed_klystrons.tex)
+
+[17
+
+] (4_1_Objekte/4_17_tubes_traveling_wave.tex)
+
+[18] (4_1_Objekte/4_18_tubes_magnetron.tex
+Overfull \hbox (63.34296pt too wide) in paragraph at lines 16--38
+ [][] 
+ []
+
+)
+
+[19] (4_1_Objekte/4_19_resistors_fixed_composition.tex
+Underfull \hbox (badness 1817) in paragraph at lines 14--16
+\T1/phv/m/n/12 Resistors, Fixed, Com-po-si-tion (in-su-lated,
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 24.
+(C:\Users\Andre\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 24.
+)
+
+[20] (4_1_Objekte/4_20_resistors_fixed_film.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(14.22636pt, 569.0552pt, 14.22636pt)
+* v-part:(T,H,B)=(101.40665pt, 591.53027pt, 152.11002pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=569.0552pt
+* \textheight=591.53027pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 35--35
+[]|\T1/phv/m/n/10 0.00059| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 35--35
+[]|\T1/phv/m/n/10 0.00073| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 35--35
+[]|\T1/phv/m/n/10 0.00089| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 37--37
+[]|\T1/phv/m/n/10 0.00063| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 37--37
+[]|\T1/phv/m/n/10 0.00078| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 37--37
+[]|\T1/phv/m/n/10 0.00096| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 39--39
+[]|\T1/phv/m/n/10 0.00067| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 39--39
+[]|\T1/phv/m/n/10 0.00084| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 41--41
+[]|\T1/phv/m/n/10 0.00072| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 43--43
+[]|\T1/phv/m/n/10 0.00078| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 43--43
+[]|\T1/phv/m/n/10 0.00098| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 45--45
+[]|\T1/phv/m/n/10 0.00084| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 47--47
+[]|\T1/phv/m/n/10 0.00092| 
+ []
+
+Class scrreprt Info: Workaround for not recommended usage of \\ or
+(scrreprt)           \newlinein caption text  on input line 66.
+
+Overfull \hbox (0.89075pt too wide) in paragraph at lines 76--76
+[]|$\OML/cmm/m/it/10 T[]$\T1/phv/b/n/10 (\TS1/phv/b/n/10 ∞\T1/phv/b/n/10 C)| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 79--79
+[]|\T1/phv/m/n/10 0.00061| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 79--79
+[]|\T1/phv/m/n/10 0.00074| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 79--79
+[]|\T1/phv/m/n/10 0.00091| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 81--81
+[]|\T1/phv/m/n/10 0.00067| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 81--81
+[]|\T1/phv/m/n/10 0.00082| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 83--83
+[]|\T1/phv/m/n/10 0.00073| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 83--83
+[]|\T1/phv/m/n/10 0.00091| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 87--87
+[]|\T1/phv/m/n/10 0.00088| 
+ []
+
+
+Overfull \hbox (3.03423pt too wide) in paragraph at lines 89--89
+[]|\T1/phv/m/n/10 0.00096| 
+ []
+
+Class scrreprt Info: Workaround for not recommended usage of \\ or
+(scrreprt)           \newlinein caption text  on input line 116.
+
+
+[21
+
+]) (4_1_Objekte/4_21_resistors_fixed_film_power.tex)
+
+[22
+
+] (4_1_Objekte/4_22_resistors_fixed_wirewound.tex
+Overfull \hbox (0.89075pt too wide) in paragraph at lines 25--25
+[]|$\OML/cmm/m/it/10 T[]$\T1/phv/b/n/10 (\TS1/phv/b/n/10 ∞\T1/phv/b/n/10 C)| 
+ []
+
+)
+
+[23] (4_1_Objekte/4_23_resistors_fixed_wirewound_power.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.6271pt, 418.25372pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 644.05565pt, 99.58464pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=418.25372pt
+* \textheight=644.05565pt
+* \oddsidemargin=17.35712pt
+* \evensidemargin=17.35712pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+
+[24
+
+] (4_1_Objekte/4_24_resistors_fixed_wirewound_power_chassis_mounted.tex)
+
+[25] (4_1_Objekte/4_25_resistors_thermistor.tex)
+
+[26] (4_1_Objekte/4_26_resistors_variable_wirewound.tex)
+
+[27] (4_1_Objekte/4_27_resistors_variable_wirewound_precision.tex)
+
+[28] (4_1_Objekte/4_28_resistors_varable_wirewound_semiprecision.tex)
+
+[29] (4_1_Objekte/4_29_resistors_variable_wirewound_power.tex)
+
+[30] (4_1_Objekte/4_30_resistors_variable_nonwirewound.tex)
+
+[31] (4_1_Objekte/4_31_resistors_variable_composition.tex)
+
+[32] (4_1_Objekte/4_32_resistors_variable_nonwirewound_film_and_precision.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(14.22636pt, 569.0552pt, 14.22636pt)
+* v-part:(T,H,B)=(101.40665pt, 591.53027pt, 152.11002pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=569.0552pt
+* \textheight=591.53027pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+[33
+
+]) (4_1_Objekte/4_33_capacitors_fixed_super-metallized_plastic.tex)
+
+[34
+
+] (4_1_Objekte/4_34_capacitors_fixed_electrolytic_(dry)_aluminium.tex)
+
+[35] (4_1_Objekte/4_35_capacitors_variable_air_trimmer.tex)
+
+[36] (4_1_Objekte/4_36_inductive_devices_transformers.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.6271pt, 418.25372pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 686.73479pt, 56.9055pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=418.25372pt
+* \textheight=686.73479pt
+* \oddsidemargin=17.35712pt
+* \evensidemargin=17.35712pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+[37
+
+]) (4_1_Objekte/4_37_inductive_devices_coils.tex)
+
+[38
+
+] (4_1_Objekte/4_38_rotating_devices_synchros_and_resolvers.tex)
+
+[39] (4_1_Objekte/4_39_rotating_devices_elapsed_time_meters.tex)
+
+[40] (4_1_Objekte/4_40_relays_mechanical.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.6271pt, 418.25372pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 572.92377pt, 170.71652pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=418.25372pt
+* \textheight=572.92377pt
+* \oddsidemargin=17.35712pt
+* \evensidemargin=17.35712pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+[41
+
+]) (4_1_Objekte/4_41_relays_solid_state_and_time_delay.tex
+Overfull \hbox (7.41696pt too wide) in paragraph at lines 18--29
+ [][] 
+ []
+
+)
+
+[42
+
+] (4_1_Objekte/4_42_switches_toggle_or_pushbutton.tex)
+
+[43] (4_1_Objekte/4_43_switches_basic_sensitive.tex)
+
+[44] (4_1_Objekte/4_44_switches_rotary.tex)
+
+[45] (4_1_Objekte/4_45_switches_thumbwheel.tex)
+
+[46] (4_1_Objekte/4_46_switches_circuit_breakers.tex)
+
+[47] (4_1_Objekte/4_47_connectors_printed_circuit_board.tex)
+
+[48] (4_1_Objekte/4_48_connectors_integrated_circuit_sockets.tex
+Overfull \hbox (7.41696pt too wide) in paragraph at lines 17--24
+ [][] 
+ []
+
+)
+
+[49] (4_1_Objekte/4_49_interconnection_assemblies_with_plated_through_holes.tex)
+
+[50] (4_1_Objekte/4_50_connections.tex)
+
+[51] (4_1_Objekte/4_51_meters_panel.tex)
+
+[52] (4_1_Objekte/4_52_quartz_crystals.tex)
+
+[53] (4_1_Objekte/4_53_lamps.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+)
+
+[54] (4_1_Objekte/4_54_electronic_filters_non-tunable.tex
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\T1/phv/m/n/10 MIL-F-15733, Ceramic-Ferrite
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 22--22
+\T1/phv/m/n/10 Con-struc-tion (Styles FL 10-16,
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 28--28
+[]|\T1/phv/m/n/10 MIL-F-18327, Dis-crete LC and
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 28--28
+\T1/phv/m/n/10 Crys-tal Com-po-nents (Com-po-si-
+ []
+
+)
+
+[55] (4_1_Objekte/4_55_fuses.tex
+Underfull \hbox (badness 1881) in paragraph at lines 26--26
+[]|\T1/phv/m/n/10 W-F-1726, W-F-1814, MIL-F-5372,
+ []
+
+))
+
+[56] (20_Literaturverzeichnis.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 4.
+)
+
+[57
+
+
+
+] (1_MIL-HDBK-217F_BFRS.aux (4_Basisfehlerraten.aux))
+ ***********
+LaTeX2e <2025-06-01>
+L3 programming layer <2025-05-26>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 14892 strings out of 468225
+ 334120 string characters out of 5432973
+ 932789 words of memory out of 5000000
+ 43107 multiletter control sequences out of 15000+600000
+ 663302 words of font info for 78 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,14n,110p,11010b,369s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Andre/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on 1_MIL-HDBK-217F_BFRS.pdf (64 pages, 240449 bytes).
+PDF statistics:
+ 264 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

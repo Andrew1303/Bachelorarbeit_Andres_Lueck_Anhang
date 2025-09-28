@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1757673377.67016 "/aidata/users/andresl/Bachelorarbeit_Andres_Lueck/_Testphase/test.tex" "test.pdf" "test" 1757673377.95728 0
+  "/aidata/users/andresl/Bachelorarbeit_Andres_Lueck/_Testphase/test.tex" 1751463862.35534 70 264d395fa69b7e72311408e3c144055f ""
+  "/etc/texmf/web2c/texmf.cnf" 1752098469.45682 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1752098484.87007 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1752098514 8212261 02c9f593cb44d5ef7d1b63f9409225e4 ""
+  "test.aux" 1757673377.91742 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1751463862.35534 70 264d395fa69b7e72311408e3c144055f ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
+  (rewritten before read)

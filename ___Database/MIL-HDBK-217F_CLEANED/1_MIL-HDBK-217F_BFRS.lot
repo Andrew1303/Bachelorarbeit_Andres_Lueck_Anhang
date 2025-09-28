@@ -1,0 +1,63 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Base Failure Rate $\lambda _b$ of diodes, low frequency}}{2}{}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Base Failure Rate $\lambda _b$ of diodes, high frequency}}{3}{}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, low frequency, bipolar}}{4}{}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, low frequency, si fet}}{5}{}%
+\contentsline {table}{\numberline {2.5}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, low frequency, si fet}}{6}{}%
+\contentsline {table}{\numberline {2.6}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, low noise, high frequency, bipolar}}{7}{}%
+\contentsline {table}{\numberline {2.7}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, high power, high frequency, bipolar}}{8}{}%
+\contentsline {table}{\numberline {2.8}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, high frequency, GaAs FET}}{9}{}%
+\contentsline {table}{\numberline {2.9}{\ignorespaces Base Failure Rate $\lambda _b$ of transistors, high frequency, si fet}}{10}{}%
+\contentsline {table}{\numberline {2.10}{\ignorespaces Base Failure Rate $\lambda _b$ of thyristors and scrs}}{11}{}%
+\contentsline {table}{\numberline {2.11}{\ignorespaces Base Failure Rate $\lambda _b$ of Photodetectors}}{12}{}%
+\contentsline {table}{\numberline {2.12}{\ignorespaces Base Failure Rate $\lambda _b$ of Opto-Isolators}}{12}{}%
+\contentsline {table}{\numberline {2.13}{\ignorespaces Base Failure Rate $\lambda _b$ of Emitters}}{12}{}%
+\contentsline {table}{\numberline {2.14}{\ignorespaces Base Failure Rate $\lambda _b$ of optoelectronics, alphanumeric displays}}{13}{}%
+\contentsline {table}{\numberline {2.15}{\ignorespaces Base Failure Rate $\lambda _b$ of optoelectronics, laser diode}}{14}{}%
+\contentsline {table}{\numberline {2.16}{\ignorespaces Base Failure Rate $\lambda _b$ of tubes, all types except twt and magnetron Part 1}}{16}{}%
+\contentsline {table}{\numberline {2.17}{\ignorespaces Base Failure Rate $\lambda _b$ of tubes, all types except twt and magnetron Part 2}}{16}{}%
+\contentsline {table}{\numberline {2.18}{\ignorespaces Base Failure Rate $\lambda _b$ of tubes pulsed Klystron}}{17}{}%
+\contentsline {table}{\numberline {2.19}{\ignorespaces Base Failure Rate $\lambda _b$ of tubes CW Klystron}}{17}{}%
+\contentsline {table}{\numberline {2.20}{\ignorespaces Base Failure Rate $\lambda _b$ of tubes traveling wave}}{18}{}%
+\contentsline {table}{\numberline {2.21}{\ignorespaces Base Failure Rate $\lambda _b$ of tubes magnetron}}{19}{}%
+\contentsline {table}{\numberline {2.22}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors fixed composition}}{20}{}%
+\contentsline {table}{\numberline {2.23}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors fixed film \\(MIL-R-22684 and MIL-R-39017)}}{21}{}%
+\contentsline {table}{\numberline {2.24}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors fixed film \\(MIL-R-10509 and MIL-R-55182)}}{21}{}%
+\contentsline {table}{\numberline {2.25}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, fixed, film, power}}{22}{}%
+\contentsline {table}{\numberline {2.26}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, fixed, wirewound}}{23}{}%
+\contentsline {table}{\numberline {2.27}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, fixed, wirewound, power}}{24}{}%
+\contentsline {table}{\numberline {2.28}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, fixed, wirewound, power, chassis mounted}}{25}{}%
+\contentsline {table}{\numberline {2.29}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors thermistor}}{26}{}%
+\contentsline {table}{\numberline {2.30}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, wirewound}}{27}{}%
+\contentsline {table}{\numberline {2.31}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, wirewound, precision}}{28}{}%
+\contentsline {table}{\numberline {2.32}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, wirewound, semiprecision}}{29}{}%
+\contentsline {table}{\numberline {2.33}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, wirewound, power}}{30}{}%
+\contentsline {table}{\numberline {2.34}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, nonwirewound}}{31}{}%
+\contentsline {table}{\numberline {2.35}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, composition}}{32}{}%
+\contentsline {table}{\numberline {2.36}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, nonwirewound, film and precision (RQ Style Only)}}{33}{}%
+\contentsline {table}{\numberline {2.37}{\ignorespaces Base Failure Rate $\lambda _b$ of resistors, variable, nonwirewound, film and precision (RVC Style Only)}}{33}{}%
+\contentsline {table}{\numberline {2.38}{\ignorespaces Base Failure Rate $\lambda _b$ of capacitors, fixed, super-metallized plastic}}{34}{}%
+\contentsline {table}{\numberline {2.39}{\ignorespaces Base Failure Rate $\lambda _b$ of capacitors, fixed, electrolyte (dry), aluminium}}{35}{}%
+\contentsline {table}{\numberline {2.40}{\ignorespaces Base Failure Rate $\lambda _b$ of capacitors, variable, air trimmer}}{36}{}%
+\contentsline {table}{\numberline {2.41}{\ignorespaces Base Failure Rate $\lambda _b$ of inductive devices, transformers}}{37}{}%
+\contentsline {table}{\numberline {2.42}{\ignorespaces Base Failure Rate $\lambda _b$ of inductive devices, coils}}{38}{}%
+\contentsline {table}{\numberline {2.43}{\ignorespaces Base Failure Rate $\lambda _b$ of rotating devices, synchros and resolvers}}{39}{}%
+\contentsline {table}{\numberline {2.44}{\ignorespaces Base Failure Rate $\lambda _b$ of rotating devices, elapsed time meters}}{40}{}%
+\contentsline {table}{\numberline {2.45}{\ignorespaces Base Failure Rate $\lambda _b$ of relays mechanical}}{41}{}%
+\contentsline {table}{\numberline {2.46}{\ignorespaces Base Failure Rate $\lambda _b$ of relays, solid state and time delay}}{42}{}%
+\contentsline {table}{\numberline {2.47}{\ignorespaces Base Failure Rate $\lambda _b$ of relays, solid state and time delay}}{43}{}%
+\contentsline {table}{\numberline {2.48}{\ignorespaces Base Failure Rate $\lambda _b$ of switches, basic sensitive}}{44}{}%
+\contentsline {table}{\numberline {2.49}{\ignorespaces Base Failure Rate $\lambda _b$ of switches, rotary}}{45}{}%
+\contentsline {table}{\numberline {2.50}{\ignorespaces Base Failure Rate $\lambda _b$ of switches, thumbwheel}}{46}{}%
+\contentsline {table}{\numberline {2.51}{\ignorespaces Base Failure Rate $\lambda _b$ of switches, circuit breakers}}{47}{}%
+\contentsline {table}{\numberline {2.52}{\ignorespaces Base Failure Rate $\lambda _b$ of connectors, printed circuit board}}{48}{}%
+\contentsline {table}{\numberline {2.53}{\ignorespaces Base Failure Rate $\lambda _b$ of connectors, integrated circuit sockets}}{49}{}%
+\contentsline {table}{\numberline {2.54}{\ignorespaces Base Failure Rate $\lambda _b$ of interconnection assemblies with plated through holes}}{50}{}%
+\contentsline {table}{\numberline {2.55}{\ignorespaces Base Failure Rate $\lambda _b$ of connections}}{51}{}%
+\contentsline {table}{\numberline {2.56}{\ignorespaces Base Failure Rate $\lambda _b$ of meters, panel}}{52}{}%
+\contentsline {table}{\numberline {2.57}{\ignorespaces Base Failure Rate $\lambda _b$ of quartz crystals}}{53}{}%
+\contentsline {table}{\numberline {2.58}{\ignorespaces Base Failure Rate $\lambda _b$ of lamps}}{54}{}%
+\contentsline {table}{\numberline {2.59}{\ignorespaces Base Failure Rate $\lambda _b$ of electronic filters, non-tunable}}{55}{}%
+\contentsline {table}{\numberline {2.60}{\ignorespaces Base Failure Rate $\lambda _b$ of fuses}}{56}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

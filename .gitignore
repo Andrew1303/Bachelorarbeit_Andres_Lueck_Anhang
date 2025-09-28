@@ -1,0 +1,3 @@
+__Recherche/RAG/Skripts/chromadb/
+*.sqlite3
+*.bin

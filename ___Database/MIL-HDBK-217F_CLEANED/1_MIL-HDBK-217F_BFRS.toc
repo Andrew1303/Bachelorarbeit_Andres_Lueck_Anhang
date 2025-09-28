@@ -1,0 +1,113 @@
+\contentsline {chapter}{\numberline {1}Introdruction}{I}{}%
+\contentsline {chapter}{\numberline {2}Technical parts}{1}{}%
+\contentsline {section}{\numberline {2.1}DIODES, LOW FREQUENCY}{2}{}%
+\contentsline {subsection}{\numberline {2.1.1}Base Failure Rate $\lambda _b$}{2}{}%
+\contentsline {section}{\numberline {2.2}DIODES, HIGH FREQUENCY (MICROWAVE, RF)}{3}{}%
+\contentsline {subsection}{\numberline {2.2.1}Base Failure Rate $\lambda _b$}{3}{}%
+\contentsline {section}{\numberline {2.3}TRANSISTORS, LOW FREQUENCY, BIPOLAR}{4}{}%
+\contentsline {subsection}{\numberline {2.3.1}Base Failure Rate $\lambda _b$}{4}{}%
+\contentsline {section}{\numberline {2.4}TRANSISTORS, LOW FREQUENCY, SI FET}{5}{}%
+\contentsline {subsection}{\numberline {2.4.1}Base Failure Rate $\lambda _b$}{5}{}%
+\contentsline {section}{\numberline {2.5}TRANSISTORS, UNIJUNCTION}{6}{}%
+\contentsline {subsection}{\numberline {2.5.1}Base Failure Rate $\lambda _b$}{6}{}%
+\contentsline {section}{\numberline {2.6}TRANSISTORS, LOW NOISE, HIGH FREQUENCY, BIPOLAR}{7}{}%
+\contentsline {subsection}{\numberline {2.6.1}Base Failure Rate $\lambda _b$}{7}{}%
+\contentsline {section}{\numberline {2.7}TRANSISTORS, HIGH POWER, HIGH FREQUENCY, BIPOLAR}{8}{}%
+\contentsline {subsection}{\numberline {2.7.1}Base Failure Rate $\lambda _b$}{8}{}%
+\contentsline {section}{\numberline {2.8}TRANSISTORS, HIGH FREQUENCY, GaAs FET}{9}{}%
+\contentsline {subsection}{\numberline {2.8.1}Base Failure Rate $\lambda _b$}{9}{}%
+\contentsline {section}{\numberline {2.9}TRANSISTORS, HIGH FREQUENCY, SI FET}{10}{}%
+\contentsline {subsection}{\numberline {2.9.1}Base Failure Rate $\lambda _b$}{10}{}%
+\contentsline {section}{\numberline {2.10}THYRISTORS AND SCRS}{11}{}%
+\contentsline {subsection}{\numberline {2.10.1}Base Failure Rate $\lambda _b$}{11}{}%
+\contentsline {section}{\numberline {2.11}OPTOELECTRONICS, DETECTORS, ISOLATORS, EMITTERS}{12}{}%
+\contentsline {subsection}{\numberline {2.11.1}Base Failure Rate $\lambda _b$}{12}{}%
+\contentsline {section}{\numberline {2.12}OPTOELECTRONICS, ALPHANUMERIC DISPLAYS}{13}{}%
+\contentsline {subsection}{\numberline {2.12.1}Base Failure Rate $\lambda _b$}{13}{}%
+\contentsline {section}{\numberline {2.13}OPTOELECTRONICS, LASER DIODE}{14}{}%
+\contentsline {subsection}{\numberline {2.13.1}Base Failure Rate $\lambda _b$}{14}{}%
+\contentsline {section}{\numberline {2.14}DISCRETE SEMICONDUCTORS, EXAMPLE}{15}{}%
+\contentsline {subsection}{\numberline {2.14.1}Base Failure Rate $\lambda _b$}{15}{}%
+\contentsline {section}{\numberline {2.15}TUBES, ALL TYPES EXCEPT TWT AND MAGNETRON}{16}{}%
+\contentsline {subsection}{\numberline {2.15.1}Base Failure Rate $\lambda _b$}{16}{}%
+\contentsline {section}{\numberline {2.16}TUBES, PULSED KLYSTRON, CW KLYSTRON}{17}{}%
+\contentsline {subsection}{\numberline {2.16.1}Base Failure Rate $\lambda _b$}{17}{}%
+\contentsline {section}{\numberline {2.17}TUBES TRAVELING WAVE}{18}{}%
+\contentsline {subsection}{\numberline {2.17.1}Base Failure Rate $\lambda _b$}{18}{}%
+\contentsline {section}{\numberline {2.18}TUBES, MAGNETRON}{19}{}%
+\contentsline {subsection}{\numberline {2.18.1}Base Failure Rate $\lambda _b$}{19}{}%
+\contentsline {section}{\numberline {2.19}RESISTORS, FIXED, COMPOSITION}{20}{}%
+\contentsline {subsection}{\numberline {2.19.1}Base Failure Rate $\lambda _b$}{20}{}%
+\contentsline {section}{\numberline {2.20}RESISTORS, FIXED, FILM}{21}{}%
+\contentsline {subsection}{\numberline {2.20.1}Base Failure Rate $\lambda _b$}{21}{}%
+\contentsline {section}{\numberline {2.21}RESISTORS, FIXED, FILM, POWER}{22}{}%
+\contentsline {subsection}{\numberline {2.21.1}Base Failure Rate $\lambda _b$}{22}{}%
+\contentsline {section}{\numberline {2.22}RESISTORS, FIXED, WIREWOUND}{23}{}%
+\contentsline {subsection}{\numberline {2.22.1}Base Failure Rate $\lambda _b$}{23}{}%
+\contentsline {section}{\numberline {2.23}RESISTORS, FIXED, WIREWOUND, POWER}{24}{}%
+\contentsline {subsection}{\numberline {2.23.1}Base Failure Rate $\lambda _b$}{24}{}%
+\contentsline {section}{\numberline {2.24}RESISTORS, FIXED, WIREWOUND, POWER, CHASSIS MOUNTED}{25}{}%
+\contentsline {subsection}{\numberline {2.24.1}Base Failure Rate $\lambda _b$}{25}{}%
+\contentsline {section}{\numberline {2.25}RESISTORS, THERMISTOR}{26}{}%
+\contentsline {subsection}{\numberline {2.25.1}Base Failure Rate $\lambda _b$}{26}{}%
+\contentsline {section}{\numberline {2.26}RESISTORS, VARIABLE, WIREWOUND}{27}{}%
+\contentsline {subsection}{\numberline {2.26.1}Base Failure Rate $\lambda _b$}{27}{}%
+\contentsline {section}{\numberline {2.27}RESISTORS, VARIABLE, WIREWOUND, PRECISION}{28}{}%
+\contentsline {subsection}{\numberline {2.27.1}Base Failure Rate $\lambda _b$}{28}{}%
+\contentsline {section}{\numberline {2.28}RESISTORS, VARIABLE, WIREWOUND, SEMIPRECISION}{29}{}%
+\contentsline {subsection}{\numberline {2.28.1}Base Failure Rate $\lambda _b$}{29}{}%
+\contentsline {section}{\numberline {2.29}RESISTORS, VARIABLE, WIREWOUND, POWER}{30}{}%
+\contentsline {subsection}{\numberline {2.29.1}Base Failure Rate $\lambda _b$}{30}{}%
+\contentsline {section}{\numberline {2.30}RESISTORS, VARIABLE, NONWIREWOUND}{31}{}%
+\contentsline {subsection}{\numberline {2.30.1}Base Failure Rate $\lambda _b$}{31}{}%
+\contentsline {section}{\numberline {2.31}RESISTORS, VARIABLE, COMPOSITION}{32}{}%
+\contentsline {subsection}{\numberline {2.31.1}Base Failure Rate $\lambda _b$}{32}{}%
+\contentsline {section}{\numberline {2.32}RESISTORS, VARIABLE, NONWIREWOUND, FILM AND PRECISION}{33}{}%
+\contentsline {subsection}{\numberline {2.32.1}Base Failure Rate $\lambda _b$}{33}{}%
+\contentsline {section}{\numberline {2.33}CAPACITORS, FIXED, SUPER-METALLIZED PLASTIC}{34}{}%
+\contentsline {subsection}{\numberline {2.33.1}Base Failure Rate $\lambda _b$}{34}{}%
+\contentsline {section}{\numberline {2.34}CAPACITORS, FIXED, ELECTROLYTIC (DRY), ALUMINIUM}{35}{}%
+\contentsline {subsection}{\numberline {2.34.1}Base Failure Rate $\lambda _b$}{35}{}%
+\contentsline {section}{\numberline {2.35}CAPACITORS, VARIABLE, AIR TRIMMER}{36}{}%
+\contentsline {subsection}{\numberline {2.35.1}Base Failure Rate $\lambda _b$}{36}{}%
+\contentsline {section}{\numberline {2.36}INDUCTIVE DEVICES, TRANSFORMERS}{37}{}%
+\contentsline {subsection}{\numberline {2.36.1}Base Failure Rate $\lambda _b$}{37}{}%
+\contentsline {section}{\numberline {2.37}INDUCTIVE DEVICES, COILS}{38}{}%
+\contentsline {subsection}{\numberline {2.37.1}Base Failure Rate $\lambda _b$}{38}{}%
+\contentsline {section}{\numberline {2.38}ROTATING DEVICES, SYNCHROS AND RESOLVERS}{39}{}%
+\contentsline {subsection}{\numberline {2.38.1}Base Failure Rate $\lambda _b$}{39}{}%
+\contentsline {section}{\numberline {2.39}ROTATING DEVICES, ELAPSED TIME METERS}{40}{}%
+\contentsline {subsection}{\numberline {2.39.1}Base Failure Rate $\lambda _b$}{40}{}%
+\contentsline {section}{\numberline {2.40}RELAYS, MECHANICAL}{41}{}%
+\contentsline {subsection}{\numberline {2.40.1}Base Failure Rate $\lambda _b$}{41}{}%
+\contentsline {section}{\numberline {2.41}RELAYS, SOLID STATE AND TIME DELAY}{42}{}%
+\contentsline {subsection}{\numberline {2.41.1}Base Failure Rate $\lambda _b$}{42}{}%
+\contentsline {section}{\numberline {2.42}SWITCHES, TOGGLE OR PUSHBUTTON}{43}{}%
+\contentsline {subsection}{\numberline {2.42.1}Base Failure Rate $\lambda _b$}{43}{}%
+\contentsline {section}{\numberline {2.43}SWITCHES, BASIC SENSITIVE}{44}{}%
+\contentsline {subsection}{\numberline {2.43.1}Base Failure Rate $\lambda _b$}{44}{}%
+\contentsline {section}{\numberline {2.44}SWITCHES, ROTARY}{45}{}%
+\contentsline {subsection}{\numberline {2.44.1}Base Failure Rate $\lambda _b$}{45}{}%
+\contentsline {section}{\numberline {2.45}SWITCHES, THUMBWHEEL}{46}{}%
+\contentsline {subsection}{\numberline {2.45.1}Base Failure Rate $\lambda _b$}{46}{}%
+\contentsline {section}{\numberline {2.46}SWITCHES, CIRCUIT BREAKERS}{47}{}%
+\contentsline {subsection}{\numberline {2.46.1}Base Failure Rate $\lambda _b$}{47}{}%
+\contentsline {section}{\numberline {2.47}CONNECTORS, PRINTED CIRCUIT BOARD}{48}{}%
+\contentsline {subsection}{\numberline {2.47.1}Base Failure Rate $\lambda _b$}{48}{}%
+\contentsline {section}{\numberline {2.48}CONNECTORS, INTEGRATED CIRCUIT SOCKETS}{49}{}%
+\contentsline {subsection}{\numberline {2.48.1}Base Failure Rate $\lambda _b$}{49}{}%
+\contentsline {section}{\numberline {2.49}INTERCONNECTION ASSEMBLIES WITH PLATED THROUGH HOLES}{50}{}%
+\contentsline {subsection}{\numberline {2.49.1}Base Failure Rate $\lambda _b$}{50}{}%
+\contentsline {section}{\numberline {2.50}CONNECTIONS}{51}{}%
+\contentsline {subsection}{\numberline {2.50.1}Base Failure Rate $\lambda _b$}{51}{}%
+\contentsline {section}{\numberline {2.51}METERS, PANEL}{52}{}%
+\contentsline {subsection}{\numberline {2.51.1}Base Failure Rate $\lambda _b$}{52}{}%
+\contentsline {section}{\numberline {2.52}QUARTZ CRYSTALS}{53}{}%
+\contentsline {subsection}{\numberline {2.52.1}Base Failure Rate $\lambda _b$}{53}{}%
+\contentsline {section}{\numberline {2.53}LAMPS}{54}{}%
+\contentsline {subsection}{\numberline {2.53.1}Base Failure Rate $\lambda _b$}{54}{}%
+\contentsline {section}{\numberline {2.54}ELECTRONIC FILTERS, NON-TUNABLE}{55}{}%
+\contentsline {subsection}{\numberline {2.54.1}Base Failure Rate $\lambda _b$}{55}{}%
+\contentsline {section}{\numberline {2.55}FUSES}{56}{}%
+\contentsline {subsection}{\numberline {2.55.1}Base Failure Rate $\lambda _b$}{56}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,0 +1,110 @@
+[
+    {
+        "model": "llama3.3:latest",
+        "prompt": "How high is the base failure rate (BFR) of diodes low frequency?",
+        "itemname": "diodes low frequency",
+        "expectedbfr": [
+            0.0038,
+            0.001,
+            0.069,
+            0.003,
+            0.005,
+            0.0013,
+            0.0034,
+            0.002
+        ],
+        "context": "2.1 DIODES, LOW FREQUENCY\nSPECIFICATION\nMIL-S-19500DESCRIPTION\nLow Frequency Diodes: General Purpose Analog, Switch-\ning, Fast Recovery, Power Rectifier, Transient Suppressor,\nCurrent Regulator, Voltage Regulator, Voltage Reference\n2.1.1 Base Failure Rate\u03bb b\nThe measurement of the base failure rate\u03bb bis given in failures per106hours.\nDiode Type/Application \u03bbb\nGeneral Purpose Analog 0.0038\nSwitching 0.001\nPower Rectifier, Fast Recovery 0.069\nPower Rectifier/Schottky Power Diode 0.003\nPower Rectifier with High Voltage Stacks 0.005/Junction\nTransient Suppressor/Varistor 0.0013\nCurrent Regulator 0.0034\nVoltage Regulator and Voltage Reference\n(Avalanche and Zener)0.002\nTable 2.1: Base Failure Rate\u03bb bof diodes, low frequency\nQuelle\nMIL-HDBK-217F , Seite 48, Abschnitt 6-3\n2",
+        "results": {
+            "duration": [
+                20.147285223007202,
+                20.696143627166748,
+                19.522932291030884,
+                20.434311151504517
+            ],
+            "answer": [
+                "According to the table provided from MIL-HDBK-217F, the base failure rates (BFR) of diodes for low-frequency applications are as follows:\n\n1. **General Purpose Analog Diodes**: 0.0038 failures per 10^6 hours.\n2. **Switching Diodes**: 0.001 failures per 10^6 hours.\n3. **Power Rectifier, Fast Recovery Diodes**: 0.069 failures per 10^6 hours.\n4. **Power Rectifier/Schottky Power Diode**: 0.003 failures per 10^6 hours.\n5. **Power Rectifier with High Voltage Stacks**: 0.005/Junction failures per 10^6 hours (note: this rate is specified per junction, which means the total failure rate for a device would depend on how many junctions it has).\n6. **Transient Suppressor/Varistor Diodes**: 0.0013 failures per 10^6 hours.\n7. **Current Regulator Diodes**: 0.0034 failures per 10^6 hours.\n8. **Voltage Regulator and Voltage Reference (Avalanche and Zener) Diodes**: 0.002 failures per 10^6 hours.\n\nThese rates indicate how often a diode might fail under normal operating conditions, with the failure rate being expressed in terms of failures per million hours of operation. The lower the base failure rate, the more reliable the component is expected to be.",
+                "According to the table provided from MIL-HDBK-217F, the base failure rates (BFR) of diodes for low-frequency applications are as follows:\n\n1. **General Purpose Analog Diodes**: 0.0038 failures per 10^6 hours.\n2. **Switching Diodes**: 0.001 failures per 10^6 hours.\n3. **Power Rectifier, Fast Recovery Diodes**: 0.069 failures per 10^6 hours.\n4. **Power Rectifier/Schottky Power Diode**: 0.003 failures per 10^6 hours.\n5. **Power Rectifier with High Voltage Stacks**: 0.005/Junction failures per 10^6 hours (note: this rate is specified per junction, which implies it can vary based on the number of junctions in the device).\n6. **Transient Suppressor/Varistor Diodes**: 0.0013 failures per 10^6 hours.\n7. **Current Regulator Diodes**: 0.0034 failures per 10^6 hours.\n8. **Voltage Regulator and Voltage Reference (Avalanche and Zener) Diodes**: 0.002 failures per 10^6 hours.\n\nThese rates indicate how often a diode might fail under specified conditions over a large sample size, measured in failures per million hours of operation. The actual failure rate can be influenced by numerous factors including environmental conditions, quality of the device, and operating stresses (such as voltage, current, and temperature).",
+                "According to the table provided, the base failure rate (BFR) of diodes at low frequency varies depending on the type and application of the diode. Here are the BFR values listed:\n\n1. **General Purpose Analog**: 0.0038 failures per 10^6 hours\n2. **Switching**: 0.001 failures per 10^6 hours\n3. **Power Rectifier, Fast Recovery**: 0.069 failures per 10^6 hours\n4. **Power Rectifier/Schottky Power Diode**: 0.003 failures per 10^6 hours\n5. **Power Rectifier with High Voltage Stacks**: 0.005/Junction failures per 10^6 hours (note: this value depends on the number of junctions)\n6. **Transient Suppressor/Varistor**: 0.0013 failures per 10^6 hours\n7. **Current Regulator**: 0.0034 failures per 10^6 hours\n8. **Voltage Regulator and Voltage Reference (Avalanche and Zener)**: 0.002 failures per 10^6 hours\n\nIn general, these values are relatively low, indicating that diodes at low frequency have a low base failure rate. The highest BFR value is for Power Rectifier, Fast Recovery diodes, which still has a relatively low failure rate of 0.069 failures per 10^6 hours.",
+                "According to the table provided from MIL-HDBK-217F, the base failure rates (BFR) of diodes for low-frequency applications are as follows:\n\n1. **General Purpose Analog Diodes**: 0.0038 failures per 10^6 hours.\n2. **Switching Diodes**: 0.001 failures per 10^6 hours.\n3. **Power Rectifier, Fast Recovery Diodes**: 0.069 failures per 10^6 hours.\n4. **Power Rectifier/Schottky Power Diode**: 0.003 failures per 10^6 hours.\n5. **Power Rectifier with High Voltage Stacks**: 0.005/Junction failures per 10^6 hours (note: this rate is specified per junction, which means the overall failure rate for a device could be higher depending on how many junctions it contains).\n6. **Transient Suppressor/Varistor Diodes**: 0.0013 failures per 10^6 hours.\n7. **Current Regulator Diodes**: 0.0034 failures per 10^6 hours.\n8. **Voltage Regulator and Voltage Reference (Avalanche and Zener) Diodes**: 0.002 failures per 10^6 hours.\n\nThese rates indicate how often a diode of each type is expected to fail under normal operating conditions over a large sample size, measured in failures per million hours of operation. The lower the base failure rate, the more reliable the component is considered to be."
+            ],
+            "found_bfrs": [
+                [
+                    217.0,
+                    1.0,
+                    0.0038,
+                    2.0,
+                    0.001,
+                    3.0,
+                    0.069,
+                    4.0,
+                    0.003,
+                    5.0,
+                    0.005,
+                    6.0,
+                    0.0013,
+                    7.0,
+                    0.0034,
+                    8.0,
+                    0.002
+                ],
+                [
+                    217.0,
+                    1.0,
+                    0.0038,
+                    2.0,
+                    0.001,
+                    3.0,
+                    0.069,
+                    4.0,
+                    0.003,
+                    5.0,
+                    0.005,
+                    6.0,
+                    0.0013,
+                    7.0,
+                    0.0034,
+                    8.0,
+                    0.002
+                ],
+                [
+                    1.0,
+                    0.0038,
+                    2.0,
+                    0.001,
+                    3.0,
+                    0.069,
+                    4.0,
+                    0.003,
+                    5.0,
+                    0.005,
+                    6.0,
+                    0.0013,
+                    7.0,
+                    0.0034,
+                    8.0,
+                    0.002,
+                    0.069
+                ],
+                [
+                    217.0,
+                    1.0,
+                    0.0038,
+                    2.0,
+                    0.001,
+                    3.0,
+                    0.069,
+                    4.0,
+                    0.003,
+                    5.0,
+                    0.005,
+                    6.0,
+                    0.0013,
+                    7.0,
+                    0.0034,
+                    8.0,
+                    0.002
+                ]
+            ]
+        }
+    }
+]

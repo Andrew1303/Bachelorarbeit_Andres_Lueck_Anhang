@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Andres_Station",
+        "version": "Python 3.13.1",
+        "pypath": "C:\\Users\\Andre\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "venvpath": "C:\\Users\\Andre\\Documents\\PythonVenvs"
+    },
+    {
+        "name": "Andres_bpower",
+        "version": "Python 3.13.1",
+        "pypath": "C:\\Users\\andres.lueck\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "venvpath": "C:\\Users\\andres.lueck\\Documents\\PyVenvs"
+    },
+    {
+        "name": "Andres_Surface",
+        "version": "",
+        "pypath": "",
+        "venvpath": ""
+    }
+]

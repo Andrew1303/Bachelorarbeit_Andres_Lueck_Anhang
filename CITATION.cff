@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Bachelorarbeit_Andres_Lueck_Attachment
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Andres Toll
+    family-names: Lück
+    email: Andres.Lueck@freenet.de
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17220865
+repository-code: >-
+  https://github.com/Andrew1303/Bachelorarbeit_Andres_Lueck_Anhang
+license: CC-BY-4.0
